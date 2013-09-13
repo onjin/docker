@@ -1,5 +1,5 @@
-redis dockerfile
-================
+sentry dockerfile
+=================
 Build:
 
     docker build -t="onjin/sentry" .
